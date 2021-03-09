@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../app/hadoop/tmp"
+		},
+		{
+			"path": "../../usr/local/hadoop-1.2.1/conf"
+		}
+	],
+	"settings": {}
+}
